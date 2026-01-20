@@ -2,9 +2,9 @@
 **Work force and Sales Intelligence Dashboard project using MS Excel**. 
 
 The project Includes: 
-Amazon Sales Dataset excel file
-A Pdf File on Requirement for insights on data 
-excel Dashboard file which includes calculated columns using x lookup and basic excel functions,pivot tables, dashboard and insights.
+Amazon Sales Dataset excel file.
+A Pdf File on Requirement for insights on data.
+Excel Dashboard file which includes calculated columns using x lookup and basic excel functions,pivot tables, dashboard and insights.
 
 **Task Breakdown:**
 
