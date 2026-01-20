@@ -1,21 +1,28 @@
 # Sandeep-Bartwal
 **Work force and Sales Intelligence Dashboard project using MS Excel**. 
 
-The project Includes: 
-Amazon Sales Dataset excel file.
-A Pdf File on Objective for analysis.
-Excel Dashboard file which includes calculated columns using x lookup and basic excel functions,pivot tables, dashboard and insights.
+This repository contains an interactive Excel dashboard designed to analyze and visualize key business metrics using raw data. The project demonstrates strong skills in data cleaning, transformation, and visual storytelling using Microsoft Excel.
 
-**Task Breakdown:**
+🔹 Key Features
 
-**Step 1 - Data Cleaning and Pre-Processing**
+Cleaned and prepared raw data using Excel formulas and functions
+Created calculated fields using IF, SUMIFS, COUNTIFS, XLOOKUP, and other functions
+Built dynamic Pivot Tables for analysis
+Designed an interactive dashboard with charts, slicers, and filters
+Enabled quick insights into trends, performance, and comparisons
 
-**Step 2 - creating Pivot Tables** 
+🔹 Analysis Covered
 
-**Step 3 - Applying X Lookup for Cross Referencing**
+KPI tracking and performance summary
+Category-wise and time-based analysis
+Trend analysis using charts
+Comparison across multiple dimensions (e.g., product, region, customer, time)
 
-**Step 4 : Advanced Reporting: KPI Metrics & Calculated Fields**
+🔹 Tools & Techniques Used
 
-**Step 5 - Final Dashboard Design**
-
-**Steps 6 - Insights from performing Analysis**
+Microsoft Excel
+Pivot Tables & Pivot Charts
+Slicers & Filters
+Data Validation
+Conditional Formatting
+Lookup & logical functions
