@@ -1,12 +1,14 @@
 # Sandeep-Bartwal
 **Work force and Sales Intelligence Dashboard project using MS Excel**. 
 
-The projects Includes: Amazon Sales Datset file, Requirements for analysis on dataset file, 
-Dashboard file includes calculated columns using x lookup and basic excel functions,pivot tables, dashboard and insights.
+The project Includes: 
+Amazon Sales Dataset excel file
+A Pdf File on Requirement for insights on data 
+excel Dashboard file which includes calculated columns using x lookup and basic excel functions,pivot tables, dashboard and insights.
 
 **Task Breakdown:**
 
-**Step 1 - Data Cleaning and Pre -Processing**
+**Step 1 - Data Cleaning and Pre-Processing**
 
 **Step 2 - creating Pivot Tables** 
 
