@@ -3,7 +3,7 @@
 
 The project Includes: 
 Amazon Sales Dataset excel file.
-A Pdf File on Requirement for insights on data.
+A Pdf File on Objective for analysis.
 Excel Dashboard file which includes calculated columns using x lookup and basic excel functions,pivot tables, dashboard and insights.
 
 **Task Breakdown:**
